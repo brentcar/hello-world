@@ -1,7 +1,7 @@
 # hello-world
 First github repository
 
-Hello World!
+Nihau World!
 
 Brent is making changes to his first branch
 
